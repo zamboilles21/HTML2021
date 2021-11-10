@@ -1,0 +1,18 @@
+body
+{
+    background-color: gray;
+    margin: auto;
+}
+h1
+{
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+
+h2
+{
+    color: red;
+    font-weight: bold;
+}
+
