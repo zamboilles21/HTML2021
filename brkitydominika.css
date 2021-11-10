@@ -1,18 +1,21 @@
 body
 {
-    background-color: gray;
     margin: auto;
+    background-color: silver;
 }
 h1
 {
     font-weight: bold;
-    color: red;
+    color: black;
     text-align: center;
 }
 
 h2
 {
-    color: red;
+    color: black;
     font-weight: bold;
 }
-
+img
+{
+    width: 200px;
+}
