@@ -7,6 +7,6 @@ body
     background-image: url('depositphotos_16353625-stock-photo-old-paper-background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    margin-left: 25px;
+    margin: 250px,250px,250px,250px;
     text-align: center;
 }
