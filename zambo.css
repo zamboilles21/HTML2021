@@ -12,8 +12,12 @@ body
 }
 #tartalom
 {
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
     margin-left: 100px;
     margin-right: 100px;
+}
+#email
+{
+    width: 100px;
 }
