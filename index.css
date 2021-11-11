@@ -1,4 +1,15 @@
 body
 {
     text-align: center;
+    background-color:silver;
+}
+#doboz
+{
+    border: solid;
+    border-color:darkblue;
+    padding: 25px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 250px;
+    margin-bottom: 250px;
 }
